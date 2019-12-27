@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "744663451540",
+    "firebase_url": "https://equilibriumapp-ad3b4.firebaseio.com",
+    "project_id": "equilibriumapp-ad3b4",
+    "storage_bucket": "equilibriumapp-ad3b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744663451540:android:bc565cd1e25963c0",
+        "android_client_info": {
+          "package_name": "dmc.ncat.eq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744663451540-5slig94tqg67fsham98v4fv463c3b6gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzb0znZOA2knehZtX7-_kMY95PmVYrIn4"
+        },
+        {
+          "current_key": "AIzaSyBv_2RNJ0PZhTytL2VGC_Lpie6d7HEYMY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744663451540-5slig94tqg67fsham98v4fv463c3b6gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

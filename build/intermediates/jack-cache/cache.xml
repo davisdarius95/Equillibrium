@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\5ed593a4c089dfbb181989767e43a591f0a10264\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-931e1395a76f539a4ad54880380e2d0895d6ad86.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\35a20d3bc547096b935cfdad1288d4a5d72e79b0\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-83aec1fc0ca8738a0ad8112c8bb23bc1abea0744.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\cdfefe142d7c3d193af72a8761c79702250690cc\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b95670f52e3a162b16e2f66ab8fee4406ed4e837.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\4ef18885dd4fb5937444390c739cdc2cde4e5cc6\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-254eb7ae05fde177de12c2871e654f4846488f47.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\c114c423800c63a081c19b34e7c574cfafa80f62\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-16441e3c69497670e475f9bb1a88ee8634fa9426.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\dad44028d4984c1fcb87f28d6b390ca64928f636\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ea9ca6e06773d958e5a38596a00ad23f75d74541.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\6d6b0bfc9ff820ed493ea878d62d252b6c11a56d\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a179550bf2b625da029efb2e91b38329b6c558d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\e1ed9552a7f5801078b64c8e752bc5ab57e437eb\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-bd74353e4c47865e3ff06a865dae92991a084716.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\727b0e90dc42a1cd7a615fb58f8dcc17cd45b97b\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-98267d1928a50469d77242f54eaafc107ae11d61.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.gradle\caches\modules-2\files-2.1\com.fatsecret4j\fatsecret-platform\2.0\1b7681d5a882b4d7315e212b15add2dbd1834e28\fatsecret-platform-2.0.jar"
+        revision="25.0.2"
+        sha1="1b7681d5a882b4d7315e212b15add2dbd1834e28">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\fatsecret-platform-2.0-34c145097d7224b83a9d37564a8079dc7530df87.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.1.1-b99665049711028084c8737f4a993cc6a895f95e.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\439c2b61bdb07a37744de40d96c224e377b2a889\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b735a274703f8241687e2bcdadabcc58ad5078b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\library-1.0.19-0d82b895a5fbaf2f58f2e4488352ec52930d2e1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\195191298fed458e63a5460acc09044bba8011f3\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-19c9ca40a79c2fb4abea265363d57b499943ee4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\3098c483af309767c67416afd2125abaa8849e5c\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-faa375ec896f72384aa448f5e8b1171342a903c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\f453d1d37dacd300d743016adf1901d03836b1c5\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="962e1b271463473a3d79924886bb09509bafac09">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-327e86aa8f5c140f2f0a6e1573ca8632a661c326.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\0846157bbf1b7bf354b316e9cfa39c559c2ef2b1\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5f068bfa5140158d97bc88fc858d6e610010c3b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\2d29997856363ad097fd47fd488ef9fced2ee2f0\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d2b8db4e2162b68ee0e81e9843dd38206cfd07ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\0b04f63a7fa1220f0c07e7ee0eb9a48cc5cb8cc6\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0b7eb09c7e7807095c42fe7726b3f9e127c1f16e.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\f34c562bff32a06f3fd04ac2d02998735fbd80f0\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-07d2eb3e29e760cad40f4bea41fa327cc47d42a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\a1f34853ba87dc5d555df6dbb4fbea8c4bfc6b9a\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a403f8880479efa1d25d37f31d7538850105b282.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\5350b1ea577d9c826f7a5409f97d9e72a44762e8\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1b01e5fe8cece365257e94984267a3c6ade43004.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\46d4b7ea71079d85f31397ad9e97939e62c11daa\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-73824b7f4e7e16965253a8fd4ab18c07d6c695eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\CS Student\.android\build-cache\e0d4dd0f7c9289a985de8061875f92de48e5a811\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\CS Student\Documents\FoodandFitness\FoodandFitness\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-420e3e594ac0cbdd7cd38e93acc646be0d9d71b6.jar" />
+    </item>
+
+</items>
